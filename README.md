@@ -1,4 +1,4 @@
-# Spotify API wep application
+# Spotify API web application
 
 Node.js and Express js web app with Spotify API functionality. Implements "authorization code" OAuth authentication flow, borrowed from [this repo](https://github.com/spotify/web-api-auth-examples).
 
@@ -13,7 +13,7 @@ $ npm start
 ```
 Your app should be up and running at localhost:5000 (but it's not going to work yet)
 
-## Setting up a Spotify Web App:
+## Setting up a Spotify web app:
 
 You'll need to register a Spotify app and add your own credentials to the code. First go to the [Spotify for Developers Dashboard](https://developer.spotify.com/dashboard) and create an application. Then add these two redirect URIs in settings:
 ```
