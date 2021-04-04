@@ -4,7 +4,7 @@ Node.js and Express js web app with Spotify API functionality. Implements "autho
 
 Here are steps for running a Spotify web app locally starting from this repo (requires [Node.js](https://nodejs.org/en/)):
 
-## Setting up locally:
+## Setting up local Node.js environment:
 ```
 $ git clone https://github.com/tommygeiger/spotify-webapi    # or fork then clone
 $ cd spotify-webapi
