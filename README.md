@@ -14,7 +14,7 @@ Your app should be up & running at localhost:5000.
 
 ## Connecting to Spotify
 
-You will need to register your app and get your own credentials from the Spotify for Developers Dashboard.
+You will need to register an app and get your own credentials from the [Spotify for Developers Dashboard](https://developer.spotify.com).
 
 To do so, go to your Spotify for Developers Dashboard and create your application. For the examples, we registered these Redirect URIs:
 
