@@ -16,11 +16,10 @@ Your app should be up and running at localhost:5000 (but it's not going to work 
 ## Setting up a Spotify Web App:
 
 You'll need to register a Spotify app and add your own credentials to the code. First go to the [Spotify for Developers Dashboard](https://developer.spotify.com/dashboard) and create an application. Then add these two Redirect URIs in settings:
-
+```
 http://localhost:5000
-
 http://localhost:5000/callback
-
+```
 Now replace `CLIENT_ID` and `CLIENT_SECRET` in `index.js` with your Spotify application Client ID and Client Secret from your Spotify Dashboard. Finally, replace `REDIRECT_URI` with `http://localhost:5000/callback`.
 
 Head back over to localhost:5000 and voila!
