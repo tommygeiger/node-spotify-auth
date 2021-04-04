@@ -6,7 +6,7 @@ Here are steps for running a spotify web app locally starting from this repo (re
 
 ## Running Locally:
 ```sh
-$ git clone https://github.com/tommygeiger/spotify-webapi # or fork & clone
+$ git clone https://github.com/tommygeiger/spotify-webapi    # or fork then clone
 $ cd spotify-webapi
 $ npm install
 $ npm start
