@@ -1,6 +1,6 @@
 # Spotify web API application
 
-Node.js and Express web app with Spotify Web API functionality. Implements Authorization Code OAuth authentication, referenced from [this repo](https://github.com/spotify/web-api-auth-examples).
+Node.js and Express web app with Spotify web API functionality. Implements Authorization Code OAuth authentication, referenced from [this repo](https://github.com/spotify/web-api-auth-examples).
 
 
 ## Running Locally:
