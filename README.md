@@ -23,7 +23,7 @@ http://localhost:5000
 
 http://localhost:5000/callback
 
-Now create a file in your `spotify-webapi` called `config.js` with your Spotify app's client_id, client_secret and redirect_uri:
+Now create a file in your `spotify-webapi` directory called `config.js` containing your Spotify app's client_id, client_secret and redirect_uri:
 ```
 var config = {
   CLIENT_ID : 'your-spotify-app-client-id',
