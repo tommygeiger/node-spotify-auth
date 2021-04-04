@@ -20,7 +20,7 @@ You'll need to register a Spotify app and add your own credentials to the code. 
 http://localhost:5000
 http://localhost:5000/callback
 ```
-Now replace `CLIENT_ID` and `CLIENT_SECRET` in `index.js` with your Spotify application Client ID and Client Secret from your Spotify Dashboard. Finally, replace `REDIRECT_URI` with `http://localhost:5000/callback`.
+Now replace `CLIENT_ID` and `CLIENT_SECRET` in `index.js` with your application's client ID and client secret from your Spotify dashboard. Finally, replace `REDIRECT_URI` with `http://localhost:5000/callback`.
 
 Head back over to localhost:5000 and voila!
 
