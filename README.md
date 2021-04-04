@@ -15,9 +15,7 @@ Your app should be up and running at localhost:5000 (but it's not going to work 
 
 ## Setting up a Spotify Web App:
 
-You'll need to register a Spotify app and get your own credentials from the [Spotify for Developers Dashboard](https://developer.spotify.com/dashboard).
-
-To do so, go to the [Spotify for Developers Dashboard](https://developer.spotify.com/dashboard) and create an application. Register these URIs:
+You'll need to register a Spotify app and add your own credentials to the code. First go to the [Spotify for Developers Dashboard](https://developer.spotify.com/dashboard) and create an application. Then add these two Redirect URIs in settings:
 
 http://localhost:5000
 
