@@ -23,4 +23,4 @@ http://localhost:8888
 
 http://localhost:8888/callback
 
-Once you have created your app, replace the client_id, redirect_uri and client_secret in the code with the ones you get from your application.
+Once you have created your app, replace the CLIENT_ID, CLIENT_SECRET and REDIRECT_URL in the code with the ones from your application.
