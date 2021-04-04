@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '3cf6931c4f974651b57c25157fe28427'; // Your client id
 var client_secret = '963521c39db84740b6ac85e3d896b1a0'; // Your secret
-var redirect_uri = 'https://serene-sierra-84835.herokuapp.com/callback'; // Your redirect uri
+var redirect_uri = 'https://immense-badlands-71977.herokuapp.com/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
