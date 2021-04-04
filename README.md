@@ -5,7 +5,7 @@ Node.js and Express web app with Spotify web API functionality. Implements Autho
 
 ## Running Locally:
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
+$ git clone https://github.com/tommygeiger/spotify-webapi
 $ cd node-js-getting-started
 $ npm install
 $ npm start
