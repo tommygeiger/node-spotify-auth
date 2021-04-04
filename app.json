@@ -1,8 +1,0 @@
-{
-  "name": "Start on Heroku: Node.js",
-  "description": "A Spotify web API application",
-  "repository": "https://github.com/tommygeiger/spotify-webapi",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
-}
