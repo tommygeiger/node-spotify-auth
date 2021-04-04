@@ -1,0 +1,24 @@
+{
+  "author": "Tommy Geiger",
+  "name": "spotify-webapi",
+  "version": "0.0.1",
+  "description": "Spotify Web API application",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "1.3.2",
+    "express": "~4.16.0",
+    "cors": "^2.8.4",
+    "querystring": "~0.2.0",
+    "request": "~2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommygeiger/spotify-webapi"
+  }
+}
