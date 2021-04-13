@@ -1,4 +1,4 @@
-# Spotify API web application
+# Spotify Authentication in Node
 
 Node.js web app with Spotify API functionality. Implements "authorization code" OAuth authentication flow bootstrapped from [this repo](https://github.com/spotify/web-api-auth-examples). Currently live [here](https://immense-badlands-71977.herokuapp.com/).
 
